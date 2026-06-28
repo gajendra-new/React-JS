@@ -21,3 +21,6 @@ function customRender(reactElement, mainContainer) {
 }
 
 customRender(reactElement, mainContainer)
+//every react use bundler like webpack or vite to convert jsx code into js code 
+// and then render it on the browser. so we can create our own custom react by creating a function 
+// that takes jsx code as input and converts it into js code and then renders it on the browser.

@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Package: DEMO_RAG",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "DEMO_RAG"
+        }
+    ]
+}
